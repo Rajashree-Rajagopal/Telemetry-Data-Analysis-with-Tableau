@@ -4,3 +4,7 @@ With the data collected from it's 4 factories, Daikon wanted to answer the 2 que
 - In which location did machines break the most?
 - What are the machines that broke most often in that location?
 
+Using Tableau, the dataset has been analysed to provide the answers.
+
+![Dashboard](dashboard/result-dashboard.png)
+
