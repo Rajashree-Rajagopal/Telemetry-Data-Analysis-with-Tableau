@@ -6,5 +6,7 @@ With the data collected from it's 4 factories, Daikon wanted to answer the 2 que
 
 Using Tableau, the dataset has been analysed to provide the answers.
 
-![Dashboard](dashboard/result-dashboard.png)
+![Dashboard](Dashboard/Result-dashboard.png)
+
+- It is evident that the seiko factory has more downtime and the Machine which broke down most often was Laser Welder(480)
 
